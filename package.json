@@ -1,8 +1,8 @@
 {
-  "name": "sip.js",
+  "name": "@johanblumenberg/sip.js",
   "title": "SIP.js",
   "description": "A simple, intuitive, and powerful JavaScript signaling library",
-  "version": "0.13.8",
+  "version": "1.0.0",
   "license": "MIT",
   "main": "./lib/index.js",
   "types": "./lib/index.d.ts",

@@ -1,5 +1,10 @@
 # SIP.js
 
+This is a fork of https://github.com/onsip/SIP.js, that will be discontinued as soon as the following PRs are merged:
+ - https://github.com/onsip/SIP.js/pull/680
+
+# SIP.js
+
 [![Build Status](https://travis-ci.org/onsip/SIP.js.png?branch=master)](https://travis-ci.org/onsip/SIP.js)
 
 A JavaScript SIP stack for WebRTC, instant messaging, and more!
